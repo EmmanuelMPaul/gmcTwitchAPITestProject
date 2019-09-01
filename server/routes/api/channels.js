@@ -3,7 +3,7 @@ const mongodb = require('mongodb');
 const router = express.Router();
 // get channels
 
-const uri = "mongodb+srv://fire:fire@gmctwitch-5jblj.mongodb.net/test?retryWrites=true&w=majority";
+const uri = "mongodb://localhost:27017";
 
 router.get('/', async (req, res) => {
     const channels = await loadChannelCollection();
