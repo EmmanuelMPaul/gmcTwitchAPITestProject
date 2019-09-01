@@ -1,7 +1,7 @@
 ## About
 
 <p align="center">Learning Twitch API : simple Vuejs+ node app</p>
-<p align="center">An app that allows user to add new channel and display live status if the channel streame is live.</P>
+<p align="center">An app that allows user to add new channel and display live status if the channel stream is live.</P>
 
 ## Requirements
 
