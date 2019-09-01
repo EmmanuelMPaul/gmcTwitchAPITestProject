@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732c2857-befd-455d-96b7-7c15577f4173" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/ChannelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/ChannelService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ChannelComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ChannelComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <updated>1567295529743</updated>
       <workItem from="1567295531035" duration="13279000" />
       <workItem from="1567309981423" duration="8071000" />
-      <workItem from="1567368697228" duration="1285000" />
+      <workItem from="1567368697228" duration="2033000" />
     </task>
     <servers />
   </component>
@@ -79,5 +77,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
 </project>
